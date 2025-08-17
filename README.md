@@ -14,4 +14,4 @@ Includes: Phishing simulation, penetration testing, and security analysis projec
 ---
 
 ## 🔗 Related Repository
-👉 Check out my [Internship Log Repository](https://github.com/shreyard15/internship-log)
+👉 Check out my [Internship Tracker Repository](https://github.com/shreyard15/internship-tracker)
