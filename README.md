@@ -9,7 +9,8 @@ Includes: Phishing simulation, penetration testing, and security analysis projec
 
 ### 1. 🎯 Phishing Awareness Simulation Project
 - 📘 [View Project README](https://github.com/shreyard15/cybersecurity-projects/tree/main/phishing-awareness-project)  
-- 📄 [Download Project Report](https://github.com/shreyard15/cybersecurity-projects/blob/main/phishing-awareness-project/PHISHING%20AWARENESS%20SIMULATION%20PROJECT%20REPORT.docx)
+- 📄[Download Project Report](https://github.com/shreyard15/cybersecurity-projects/blob/main/phishing-awareness-project/PHISHING%20AWARENESS%20SIMULATION%20PROJECT%20REPORT.docx?raw=true)
+
 
 ---
 
